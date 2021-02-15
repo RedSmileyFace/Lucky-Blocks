@@ -1,0 +1,14 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&9Make it Count",
+         "Material":{
+            "Item":"DIAMOND_PICKAXE",
+            "NBT":"{Enchantments:[{id:fortune,lvl:100}],Damage:1560,RepairCost:1000}"
+         }
+      }
+   },
+   "ShowHologram":[
+      "&9Make it Count"
+   ]
+}

@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&7Iron",
+         "Material":{
+            "Item":"IRON_INGOT"
+         },
+         "Amount":"[Random](2-6)"
+      }
+   }
+}

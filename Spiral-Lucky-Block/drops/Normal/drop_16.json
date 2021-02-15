@@ -1,0 +1,15 @@
+{
+   "DropItems":{
+      "1":{
+         "Material":{
+            "Item":"LAVA_BUCKET"
+         }
+      },
+      "2":{
+         "Material":{
+            "Item":"FLINT_AND_STEEL",
+            "NBT":"{Enchantments:[{id:fire_aspect,lvl:1}]}"
+         }
+      }
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Material":{
+            "Item":"TIPPED_ARROW",
+            "NBT":"{Potion:long_poison}"
+         },
+         "Amount":"[Random](5-20)"
+      }
+   }
+}

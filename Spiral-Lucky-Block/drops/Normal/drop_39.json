@@ -1,0 +1,28 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&8Hood of Death",
+         "Material":{
+            "Item":"GOLDEN_HELMET"
+         }
+      },
+      "2":{
+         "Name":"&8Tunic of Death",
+         "Material":{
+            "Item":"GOLDEN_CHESTPLATE"
+         }
+      },
+      "3":{
+         "Name":"&8Pants of Death",
+         "Material":{
+            "Item":"GOLDEN_LEGGINGS"
+         }
+      },
+      "4":{
+         "Name":"&8Shoes of Death",
+         "Material":{
+            "Item":"GOLDEN_BOOTS"
+         }
+      }
+   }
+}

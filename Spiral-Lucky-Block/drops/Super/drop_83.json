@@ -1,0 +1,18 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&cS&ep&ai&br&9a&dl &cL&eu&ac&bk&9y &dA&cx&ee",
+         "Lore":[
+            "&r",
+            "&7Found by [Player]"
+         ],
+         "Material":{
+            "Item":"DIAMOND_AXE",
+            "NBT":"{Unbreakable:true,Enchantments:[{id:efficiency,lvl:[Random](3-6)},{id:looting,lvl:[Random](1-3)},{id:smite,lvl:[Random](3-6)},{id:bane_of_arthropods,lvl:[Random](3-6)},{id:sharpness,lvl:[Random](1-3)}]}"
+         },
+         "ShowHologram":[
+            "&cS&ep&ai&br&9a&dl &cL&eu&ac&bk&9y &dA&cx&ee"
+         ]
+      }
+   }
+}

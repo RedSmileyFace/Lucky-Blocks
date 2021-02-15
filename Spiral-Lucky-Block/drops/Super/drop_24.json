@@ -1,0 +1,15 @@
+{
+   "DropItems":{
+      "1":{
+         "Material":{
+            "Item":"ELYTRA"
+         }
+      },
+      "2":{
+         "Material":{
+            "Item":"FIREWORK_ROCKET"
+         },
+         "Amount":"[Random](1-4)"
+      }
+   }
+}

@@ -1,0 +1,18 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&6Potion of Mud",
+         "Lore":[
+            "&7Ew... so sticky"
+         ],
+         "Material":{
+            "Item":"LINGERING_POTION",
+            "NBT":"{CustomPotionEffects:[{Id:2,Amplifier:99,Duration:200},{Id:4,Amplifier:2,Duration:200}],CustomPotionColor:8743485}"
+         },
+         "amount":"[Random](1-3)"
+      },
+      "Hologram":[
+         "&6Potion of Mud"
+      ]
+   }
+}

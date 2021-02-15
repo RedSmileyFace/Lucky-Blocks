@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&4S&cp&6i&er&2a&al &4B&cl&6o&ec&2k",
+         "Material":{
+            "Item":"BLACK_GLAZED_TERRACOTTA"
+         },
+         "Amount":"[Random](2-6)"
+      }
+   }
+}

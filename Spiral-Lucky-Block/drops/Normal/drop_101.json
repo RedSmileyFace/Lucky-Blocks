@@ -1,0 +1,10 @@
+{
+   "DropItems":{
+      "1":{
+         "Material":{
+            "Item":"IRON_BLOCK"
+         },
+         "Amount":"[Random](2-4)"
+      }
+   }
+}

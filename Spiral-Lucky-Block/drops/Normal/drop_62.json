@@ -1,0 +1,5 @@
+{
+   "RunCommand":[
+      "summon horse [BlockLocation] {ActiveEffects:[{Id:10,Duration:1000000,ShowParticles:false}],Attributes:[{Name:generic.maxHealth,Base:20},{Name:generic.armor,Base:30},{Name:generic.armorToughness,Base:10}],Health:20f,Tame:true,ArmorItem:{id:diamond_horse_armor,Count:1},SaddleItem:{id:saddle,Count:1},CustomName:\"\\\"[Player]'s Lucky Horse\\\"\",CustomNameVisible:true,Variant:0,Owner:[Player]}"
+   ]
+}

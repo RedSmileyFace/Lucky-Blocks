@@ -1,0 +1,6 @@
+{  
+    "RunCommand": [
+            "playsound minecraft:entity.zombie_villager.cure block @a[distance=..16] [BlockLocation] 0.7 0.7",
+            "summon area_effect_cloud [BlockLocation] {Color:3889940,Effects:[{Id:2,Duration:1200},{Id:18,Duration:1200},{Id:19,Duration:500}],Duration:60,Radius:0.5,RadiusPerTick:0.1f,Particle:potion}"
+        ]
+}

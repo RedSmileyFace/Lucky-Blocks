@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&rSpectral Arrow",
+         "Material":{
+            "Item":"SPECTRAL_ARROW"
+         },
+         "Amount":"[Random](5-20)"
+      }
+   }
+}

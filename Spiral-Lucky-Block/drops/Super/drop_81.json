@@ -1,0 +1,10 @@
+{
+  "DropItems": {
+    "1": {
+      "Material": {
+       "Item": "LEATHER_CHESTPLATE",
+       "NBT": "{display:{color:[Random](0-16777215)}}"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"Mud Ball",
+         "Lore":[
+            "&7Use me to craft special gear!"
+         ],
+         "Material":{
+            "Item":"COCOA_BEANS"
+         },
+         "Amount":"[Random](10-30)"
+      }
+   }
+}

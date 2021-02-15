@@ -1,0 +1,17 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&aPotion of Extreme Slime",
+         "Lore":[
+            "&7BOOOING!"
+         ],
+         "Material":{
+            "Item":"SPLASH_POTION",
+            "NBT":"{CustomPotionEffects:[{Id:8,Amplifier:49,Duration:100}],CustomPotionColor:1433600}"
+         },
+         "Hologram":[
+            "&aPotion of Extreme Slime"
+         ]
+      }
+   }
+}

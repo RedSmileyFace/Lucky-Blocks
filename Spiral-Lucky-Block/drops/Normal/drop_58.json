@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&9Big Blue Blade",
+         "Material":{
+            "Item":"GOLDEN_AXE",
+            "NBT":"{Enchantments:[{id:sharpness,lvl:[Random](3-6)},{id:knockback,lvl:[Random](1-4)}]}"
+         }
+      }
+   }
+}

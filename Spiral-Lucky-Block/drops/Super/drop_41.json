@@ -1,0 +1,14 @@
+{
+   "DropItems":{
+      "1":{
+         "name":"&2Sizable Slimy Scimitar",
+         "lore":[
+            "&7Uppercut I"
+         ],
+         "Material":{
+            "Item":"WOODEN_SWORD",
+            "NBT":"{Enchantments:[{id:sharpness,lvl:[Random](3-5)}]}"
+         }
+      }
+   }
+}

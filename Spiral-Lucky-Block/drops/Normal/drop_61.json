@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&dMarvelous Magenta Masher",
+         "Material":{
+            "Item":"IRON_PICKAXE",
+            "NBT":"{Enchantments:[{id:sharpness,lvl:[Random](4-7)},{id:efficiency,lvl:[Random](2-5)}]}"
+         }
+      }
+   }
+}

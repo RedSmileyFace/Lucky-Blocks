@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&cCumbersome Crimson Axe",
+         "Material":{
+            "Item":"STONE_AXE",
+            "NBT":"{Enchantments:[{id:sharpness,lvl:[Random](2-4)},{id:fire_aspect,lvl:[Random](1-3)}]}"
+         }
+      }
+   }
+}

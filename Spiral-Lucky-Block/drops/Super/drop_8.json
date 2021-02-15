@@ -1,0 +1,28 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&4S&cp&6i&2r&aa&3l &bH&3e&9l&5m&de&4t",
+         "Material":{
+            "Item":"DIAMOND_HELMET"
+         }
+      },
+      "2":{
+         "Name":"&4S&cp&6i&2r&aa&3l &bC&3h&9e&5s&dt&4p&cl&6a&2t&ae",
+         "Material":{
+            "Item":"DIAMOND_CHESTPLATE"
+         }
+      },
+      "3":{
+         "Name":"&4S&cp&6i&2r&aa&3l &bL&3e&9g&5g&di&4n&cg&6s",
+         "Material":{
+            "Item":"DIAMOND_LEGGINS"
+         }
+      },
+      "4":{
+         "Name":"&4S&cp&6i&2r&aa&3l &bB&3o&9o&5t&ds",
+         "Material":{
+            "Item":"DIAMOND_BOOTS"
+         }
+      }
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "DropItems": {
+       "1": {
+           "Name": "&6Super Lucky Block",
+           "Material": {
+               "Item": "GRAY_TERRACOTTA"
+           },
+           "Amount": "[Random](1-2)"
+       }
+   }
+}

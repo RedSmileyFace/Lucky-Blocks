@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&4S&cp&6i&2r&aa&3l &bL&3u&9c&5k&dy &4B&cl&6o&2c&ak &8- &7Starter",
+         "Material":{
+            "Item":"LIGHT_GRAY_TERRACOTTA"
+         },
+         "Amount":"[Random](3-5)"
+      }
+   }
+}

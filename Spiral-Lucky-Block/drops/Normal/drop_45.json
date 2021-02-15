@@ -1,0 +1,10 @@
+{
+   "RunCommand":[
+      "summon sheep [BlockLocation] {Color:[Random](0-14),Passengers:[{id:item,CustomName:\"\\\"Shear Me\\\"\",CustomNameVisible:true,Item:{id:shears,Count:1}}]}",
+      "summon sheep [BlockLocation] {Color:[Random](0-14)}",
+      "summon sheep [BlockLocation] {Color:[Random](0-14)}",
+      "[RandomList](,summon sheep [BlockLocation] {Color:[Random](0-14)})",
+      "[RandomList](,summon sheep [BlockLocation] {Color:[Random](0-14)})",
+      "[RandomList](,summon sheep [BlockLocation] {Color:[Random](0-14)})"
+   ]
+}

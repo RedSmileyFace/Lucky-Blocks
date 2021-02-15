@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&4S&cp&6i&2r&aa&3l &bA&3p&9p&5l&de",
+         "Material":{
+            "Item":"GOLDEN_APPLE"
+         },
+         "Amount":"[Random](1-3)"
+      }
+   }
+}

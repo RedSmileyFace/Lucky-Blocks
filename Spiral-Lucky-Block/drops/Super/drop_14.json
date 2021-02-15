@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&4Grenade",
+         "Material":{
+            "Item":"RED_DYE"
+         },
+         "Amount":"[Random](4-16)"
+      }
+   }
+}

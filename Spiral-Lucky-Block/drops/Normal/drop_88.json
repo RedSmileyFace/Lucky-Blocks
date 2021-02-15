@@ -1,0 +1,19 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&rFragile Flying Cloud Boat ",
+         "Lore":[
+            "&7Breaks after one use!"
+         ],
+         "Material":{
+            "Item":"ACACIA_BOAT"
+         }
+      },
+      "RunCommand":[
+         "particle minecraft:cloud ~ ~0.5 ~ 0.5 0.5 0.5 0 20"
+      ],
+      "ShowHologram":[
+         "Fragile Flying Cloud Boat"
+      ]
+   }
+}

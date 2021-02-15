@@ -1,0 +1,28 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"Wooden Helmet",
+         "Material":{
+            "Item":"CHAINMAIL_HELMET"
+         },
+         "2":{
+            "Name":"Wooden Chestplate",
+            "Material":{
+               "Item":"CHAINMAIL_CHESTPLATE"
+            },
+            "3":{
+               "Name":"Wooden Leggings",
+               "Material":{
+                  "Item":"CHAINMAIL_LEGGINGS"
+               },
+               "4":{
+                  "Name":"Wooden Boots",
+                  "Material":{
+                     "Item":"CHAINMAIL_BOOTS"
+                  }
+               }
+            }
+         }
+      }
+   }
+}

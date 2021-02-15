@@ -1,0 +1,14 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&4S&cp&6i&2r&aa&3l &bS&3h&9a&5r&dd",
+         "Lore":[
+            "&7Use me to craft special gear!"
+         ],
+         "Material":{
+            "Item":"MAGENTA_DYE"
+         },
+         "Amount":"[Random](2-5)"
+      }
+   }
+}

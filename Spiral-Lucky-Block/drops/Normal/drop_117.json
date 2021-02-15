@@ -1,0 +1,10 @@
+{
+  "DropItems": {
+    "1": {
+      "Material": {
+        "Item": "SWEET_BERRIES"
+      },
+      "amount": "[Random](1-16)"
+    }
+  }
+}

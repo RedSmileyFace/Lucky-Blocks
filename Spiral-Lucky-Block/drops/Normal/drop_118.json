@@ -1,0 +1,13 @@
+{
+  "DropItems": {
+    "1": {
+      "Name": [
+        "&rSurprisingly Sharp Stick"
+      ],
+      "Material": {
+        "Item": "STICK",
+        "NBT": "{AttributeModifiers:[{Slot:\"mainhand\",UUIDMost:6058273L,UUIDLeast:3938573L,Amount:3.0d,Operation:0,AttributeName:\"generic.attackDamage\",Name:\"attack\"}]}"
+      }
+    }
+  }
+}

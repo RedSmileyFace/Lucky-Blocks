@@ -1,0 +1,17 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&r&9Make it Count",
+         "Lore":[
+            "&bLoaded with a level 100 Instant Damage arrow"
+         ],
+         "Material":{
+            "Item":"CROSSBOW",
+            "NBT":"{ChargedProjectiles:[{id:tipped_arrow,Count:1b,tag:{CustomPotionEffects:[{Id:2,Amplifier:0,Duration:600},{Id:15,Amplifier:0,Duration:200},{Id:7,Amplifier:99,Duration:1},{Id:24,Amplifier:0,Duration:600}],CustomPotionColor:8005735,display:{Name:\"{\\\"text\\\":\\\"Arrow of Death\\\",\\\"color\\\":\\\"red\\\",\\\"italic\\\":false}\"}}}],Charged:true,Damage:325,RepairCost:1000,Enchantments:[{id:unbreaking,lvl:1}],HideFlags:1}"
+         },
+         "Hologram":[
+            "&9Make it Count"
+         ]
+      }
+   }
+}

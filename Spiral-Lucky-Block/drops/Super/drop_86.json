@@ -1,0 +1,18 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&cR&ei&av&be&9t&di&cn&eg &aS&bp&9i&dr&ca&el &aL&bu&9c&dk&cy &eL&ae&bg&9g&di&cn&eg&as",
+         "Lore":[
+            "&r",
+            "&7Found by [Player]"
+         ],
+         "Material":{
+            "Item":"DIAMOND_LEGGINGS",
+            "NBT":"{Unbreakable:true,AttributeModifiers:[{Name:\"armor\",AttributeName:\"generic.armor\",Amount:7,Operation:0,Slot:\"legs\",UUIDLeast:2656730,UUIDMost:4539382},{Name:\"armor toughness\",AttributeName:\"generic.armorToughness\",Amount:3,Operation:0,Slot:\"legs\",UUIDLeast:3784534,UUIDMost:3894058},{Name:\"knockback resistance\",AttributeName:\"generic.knockbackResistance\",Amount:1,Operation:0,Slot:\"legs\",UUIDLeast:3348384,UUIDMost:1463465}],Enchantments:[{id:protection,lvl:[Random](1-5)},{id:fire_protection,lvl:[Random](1-5)},{id:blast_protection,lvl:[Random](1-5)}]}"
+         },
+         "ShowHologram":[
+            "&cR&ei&av&be&9t&di&cn&eg &aS&bp&9i&dr&ca&el &aL&bu&9c&dk&cy &eL&ae&bg&9g&di&cn&eg&as"
+         ]
+      }
+   }
+}

@@ -1,0 +1,32 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"Muddy Helmet",
+         "Material":{
+            "Item":"IRON_HELMET",
+            "NBT":"{AttributeModifiers:[{Name:armor,AttributeName:generic.armor,Amount:1.5,Operation:0,Slot:head,UUIDLeast:862985,UUIDMost:965483},{Name:slow,AttributeName:generic.movementSpeed,Amount:-0.05,Operation:2,Slot:head,UUIDLeast:356485,UUIDMost:126983}]}"
+         },
+         "2":{
+            "Name":"Muddy Chestplate",
+            "Material":{
+               "Item":"IRON_CHESTPLATE",
+               "NBT":"{AttributeModifiers:[{Name:armor,AttributeName:generic.armor,Amount:4,Operation:0,Slot:chest,UUIDLeast:102985,UUIDMost:684483},{Name:slow,AttributeName:generic.movementSpeed,Amount:-0.05,Operation:2,Slot:chest,UUIDLeast:284485,UUIDMost:254983}]}"
+            },
+            "3":{
+               "Name":"Muddy Leggings",
+               "Material":{
+                  "Item":"IRON_LEGGINGS",
+                  "NBT":"{AttributeModifiers:[{Name:armor,AttributeName:generic.armor,Amount:3,Operation:0,Slot:legs,UUIDLeast:954985,UUIDMost:256483},{Name:slow,AttributeName:generic.movementSpeed,Amount:-0.05,Operation:2,Slot:legs,UUIDLeast:356485,UUIDMost:126983}]}"
+               },
+               "4":{
+                  "Name":"Muddy Boots",
+                  "Material":{
+                     "Item":"IRON_BOOTS",
+                     "NBT":"{AttributeModifiers:[{Name:armor,AttributeName:generic.armor,Amount:1.5,Operation:0,Slot:feet,UUIDLeast:625985,UUIDMost:185483},{Name:slow,AttributeName:generic.movementSpeed,Amount:-0.05,Operation:2,Slot:feet,UUIDLeast:356485,UUIDMost:126983}]}"
+                  }
+               }
+            }
+         }
+      }
+   }
+}

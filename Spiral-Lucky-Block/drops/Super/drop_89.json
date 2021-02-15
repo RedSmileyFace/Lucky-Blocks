@@ -1,0 +1,18 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&cS&ep&ai&bk&9e&dy &cS&ep&ai&br&9a&dl &cL&eu&ac&bk&9y &dS&ch&ei&ae&bl&9d",
+         "Lore":[
+            "&r",
+            "&7Found by [Player]"
+         ],
+         "Material":{
+            "Item":"SHIELD",
+            "NBT":"{BlockEntityTag:{Patterns:[{Pattern:rd,Color:10},{Pattern:bt,Color:4},{Pattern:mr,Color:1},{Pattern:ld,Color:5},{Pattern:tt,Color:11},{Pattern:mc,Color:14},{Pattern:cbo,Color:15},{Pattern:bts,Color:15},{Pattern:tts,Color:15}]},display:{Name:\"\\\"&cS&ep&ai&bk&9e&dy &cS&ep&ai&br&9a&dl &cL&eu&ac&bk&9y &dS&ch&ei&ae&bl&9d\\\"\"},Unbreakable:true,Enchantments:[{id:thorns,lvl:10}],AttributeModifiers:[{Name:\"armor\",AttributeName:\"generic.armor\",Amount:1,Operation:0,Slot:\"offhand\",UUIDLeast:384958,UUIDMost:1845859}],HideFlags:32}"
+         },
+         "ShowHologram":[
+            "&cS&ep&ai&bk&9e&dy &cS&ep&ai&br&9a&dl &cL&eu&ac&bk&9y &dS&ch&ei&ae&bl&9d"
+         ]
+      }
+   }
+}

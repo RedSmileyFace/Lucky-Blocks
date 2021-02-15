@@ -1,0 +1,17 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"Make It Count Obsidian Smasher",
+         "Lore":[
+            "&bObsidian-b-gone"
+         ],
+         "Material":{
+            "Item":"GOLDEN_PICKAXE",
+            "NBT":"{Enchantments:[{id:efficiency,lvl:100}],Damage:31,RepairCost:1000}"
+         },
+         "Hologram":[
+            "&9Make it Count"
+         ]
+      }
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&eGold",
+         "Material":{
+            "Item":"GOLD_INGOT"
+         },
+         "Amount":"[Random](2-5)"
+      }
+   }
+}

@@ -1,0 +1,16 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&cT&er&ai&bp&9l&de &cS&ep&ai&br&9a&dl &cL&eu&ac&bk&9y &dB&co&ew",
+         "Material":{
+            "Item":"BOW"
+         }
+      },
+      "2":{
+         "Material":{
+            "Item":"ARROW"
+         },
+         "Amount":"[Random](4-32)"
+      }
+   }
+}

@@ -1,0 +1,18 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&bPotion of Sugar",
+         "Lore":[
+            "&7Not recommended for people on a diet"
+         ],
+         "Material":{
+            "Item":"LINGERING_POTION",
+            "NBT":"{CustomPotionEffects:[{Id:1,Amplifier:99,Duration:100}],CustomPotionColor:11989742}"
+         },
+         "amount":"[Random](1-2)"
+      },
+      "Hologram":[
+         "&bPotion of Sugar"
+      ]
+   }
+}

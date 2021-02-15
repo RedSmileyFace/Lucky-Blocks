@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&rLucky Trident",
+         "Material":{
+            "Item":"TRIDENT",
+            "NBT":"{Enchantments:[{id:loyalty,lvl:[Random](1-2)},{id:channeling,lvl:1},{id:impaling,lvl:[Random](1-3)}]}"
+         }
+      }
+   }
+}

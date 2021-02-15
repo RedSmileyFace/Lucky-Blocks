@@ -1,0 +1,5 @@
+{  
+    "RunCommand": [
+            "summon slime [BlockLocation] {HandItems:[{},{Count:1,id:wooden_sword,tag:{Enchantments:[{id:sharpness,lvl:[Random](2-4)}],display:{Lore:[\"{\\\"text\\\":\\\"Uppercut I\\\",\\\"color\\\":\\\"gray\\\",\\\"italic\\\":false}\"]}}},{}],HandDropChances:[0f,2f],CustomName:\"\\\"The King Slime\\\"\",CustomNameVisible:true,Size:6,Attributes:[{Name:\"generic.maxHealth\",Base:50}],Health:50f}"
+        ]
+}

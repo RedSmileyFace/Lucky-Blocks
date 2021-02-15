@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&cClunky Coral Chainsaw",
+         "Material":{
+            "Item":"STONE_SWORD",
+            "NBT":"{Enchantments:[{id:sharpness,lvl:[Random](3-5)},{id:sweeping,lvl:5}]}"
+         }
+      }
+   }
+}

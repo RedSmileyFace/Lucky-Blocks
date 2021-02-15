@@ -1,0 +1,5 @@
+{
+   "RunCommand":[
+      "summon wolf [BlockLocation] {ArmorItems:[{Count:1,id:leather_boots,tag:{Enchantments:[{id:feather_falling,lvl:10}]}},{},{},{}],ArmorDropChances:[0f,0f,0f,0f],ActiveEffects:[{Id:10,Duration:1000000,ShowParticles:false}],Attributes:[{Name:generic.maxHealth,Base:20},{Name:generic.armor,Base:30},{Name:generic.armorToughness,Base:10}],Health:20f,CustomName:\"{\\\"text\\\":\\\"[Player]'s Lucky Wolf\\\",\\\"color\\\":\\\"yellow\\\"}\",CustomNameVisible:true,Sitting:true,CollarColor:[Random](0-15),Owner:[Player]}"
+   ]
+}

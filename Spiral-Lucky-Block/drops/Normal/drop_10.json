@@ -1,0 +1,19 @@
+{
+   "DropItems":{
+      "1":{
+         "Material":{
+            "Item":"DIAMOND_HORSE_ARMOR"
+         }
+      },
+      "2":{
+         "Material":{
+            "Item":"GOLD_HORSE_ARMOR"
+         }
+      },
+      "3":{
+         "Material":{
+            "Item":"IRON_HORSE_ARMOR"
+         }
+      }
+   }
+}

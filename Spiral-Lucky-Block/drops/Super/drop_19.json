@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&4S&cp&6i&2r&aa&3l &bS&3t&9a&5f&df",
+         "Material":{
+            "Item":"IRON_SWORD",
+            "NBT":"{AttributeModifiers:[{Name:nothing,AttributeName:generic.luck,Amount:0,Slot:mainhand,UUIDLeast:2345167,UUIDMost:541654}],HideFlags:2}"
+         }
+      }
+   }
+}

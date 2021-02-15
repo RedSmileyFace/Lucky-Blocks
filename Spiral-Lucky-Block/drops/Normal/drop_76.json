@@ -1,0 +1,14 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&7Potion of the Ultimate Tank",
+         "Material":{
+            "Item":"POTION",
+            "NBT":"{CustomPotionEffects:[{Id:22,Amplifier:4,Duration:1200},{Id:11,Amplifier:0,Duration:1200},{Id:21,Amplifier:4,Duration:1200}],CustomPotionColor:7695751}"
+         },
+         "Hologram":[
+            "&7Potion of the Ultimate Tank"
+         ]
+      }
+   }
+}

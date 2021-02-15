@@ -1,0 +1,18 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&cS&ep&ai&br&9a&dl &cL&eu&ac&bk&9y &dS&cw&eo&ar&bd",
+         "Lore":[
+            "&r",
+            "&7Found by [Player]"
+         ],
+         "Material":{
+            "Item":"DIAMOND_SWORD",
+            "NBT":"{Unbreakable:true,Enchantments:[{id:sharpness,lvl:[Random](3-6)},{id:looting,lvl:[Random](1-3)},{id:smite,lvl:[Random](3-6)},{id:bane_of_arthropods,lvl:[Random](3-6)},{id:sweeping,lvl:[Random](1-3)}]}"
+         },
+         "ShowHologram":[
+            "&cS&ep&ai&br&9a&dl &cL&eu&ac&bk&9y &dS&cw&eo&ar&bd"
+         ]
+      }
+   }
+}

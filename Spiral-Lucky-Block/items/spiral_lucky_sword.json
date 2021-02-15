@@ -1,0 +1,11 @@
+{
+    "Name": "&dTest",
+    "Lore": [
+        "&9Test2"
+    ],
+    "Material": {
+        "Item": "DIAMOND_SWORD",
+        "NBT": "{Damage:700}"
+    },
+    "Amount": 4
+}

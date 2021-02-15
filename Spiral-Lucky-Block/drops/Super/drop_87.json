@@ -1,0 +1,18 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&cS&et&ar&be&9n&dg&ct&eh&ae&bn&9i&dn&cg &eS&ap&bi&9r&da&cl &eL&au&bc&9k&dy &cC&eh&ae&bs&9t&dp&cl&ea&at&be",
+         "Lore":[
+            "&r",
+            "&7Found by [Player]"
+         ],
+         "Material":{
+            "Item":"DIAMOND_CHESTPLATE",
+            "NBT":"{Unbreakable:true,AttributeModifiers:[{Name:\"armor\",AttributeName:\"generic.armor\",Amount:8,Operation:0,Slot:\"chest\",UUIDLeast:4890730,UUIDMost:2734382},{Name:\"armor toughness\",AttributeName:\"generic.armorToughness\",Amount:3,Operation:0,Slot:\"chest\",UUIDLeast:3784534,UUIDMost:2342058},{Name:\"strength\",AttributeName:\"generic.attackDamage\",Amount:0.75,Operation:2,Slot:\"chest\",UUIDLeast:4985084,UUIDMost:1633465}],Enchantments:[{id:protection,lvl:[Random](1-5)},{id:fire_protection,lvl:[Random](1-5)},{id:blast_protection,lvl:[Random](1-5)}]}"
+         },
+         "ShowHologram":[
+            "&cS&et&ar&be&9n&dg&ct&eh&ae&bn&9i&dn&cg &eS&ap&bi&9r&da&cl &eL&au&bc&9k&dy &cC&eh&ae&bs&9t&dp&cl&ea&at&be"
+         ]
+      }
+   }
+}

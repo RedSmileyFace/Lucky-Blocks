@@ -1,0 +1,10 @@
+{
+   "DropItems":{
+      "1":{
+         "Material":{
+            "Item":"POTION",
+            "NBT":"{Potion:[RandomList](strength,regeneration)}"
+         }
+      }
+   }
+}

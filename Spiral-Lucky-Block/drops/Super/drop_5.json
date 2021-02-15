@@ -1,0 +1,5 @@
+{
+    "RunCommand": [
+        "summon enderman [BlockLocation] {carriedBlockState:{Name:gray_terracotta}}"
+    ]
+}

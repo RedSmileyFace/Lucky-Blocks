@@ -1,0 +1,16 @@
+{
+   "DropItems":{
+      "1":{
+         "Material":{
+            "Item":"OAK_PLANKS"
+         },
+         "Amount":"[Random](1-32)"
+      },
+      "2":{
+         "Material":{
+            "Item":"OAK_LOG"
+         },
+         "Amount":"[Random](2-10)"
+      }
+   }
+}

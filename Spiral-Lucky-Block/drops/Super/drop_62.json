@@ -1,0 +1,15 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&rSpawn [Player]'s Wolf",
+         "Lore":[
+            "&7Right Click to Spawn"
+         ],
+         "Material":{
+            "Item":"WOLFY_SPAWN_EGG",
+            "NBT":"{EntityTag:{OwnerUUID:\"[PlayerUUID]\",ActiveEffects:[{Id:6,Duration:1,Amplifier:10,ShowParticles:false}],Health:20f,CustomName:\"\\\"[Player]'s Wolf\\\"\",CustomNameVisible:true,CollarColor:[Random](0-15)}}"
+         },
+         "Amount":"[Random](2-6)"
+      }
+   }
+}

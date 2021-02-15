@@ -1,0 +1,108 @@
+{
+  "DropItems": {
+    "1": {
+      "Material": {
+        "Item": "SEA_PICKLE"
+      },
+      "amount": "[Random](1-3)"
+    },
+    "2": {
+      "Material": {
+        "Item": "DANDELION"
+      },
+      "amount": "[Random](1-3)"
+    },
+    "3": {
+      "Material": {
+        "Item": "BLUE_ORCHID"
+      },
+      "amount": "[Random](1-3)"
+    },
+    "4": {
+      "Material": {
+        "Item": "ALLIUM"
+      },
+      "amount": "[Random](1-3)"
+    },
+    "5": {
+      "Material": {
+        "Item": "AZURE_BULET"
+      },
+      "amount": "[Random](1-3)"
+    },
+    "6": {
+      "Material": {
+        "Item": "RED_TULIP"
+      },
+      "amount": "[Random](1-3)"
+    },
+    "7": {
+      "Material": {
+        "Item": "ORANGE_TULIP"
+      },
+      "amount": "[Random](1-3)"
+    },
+    "8": {
+      "Material": {
+        "Item": "WHITE_TULIP"
+      },
+      "amount": "[Random](1-3)"
+    },
+    "9": {
+      "Material": {
+        "Item": "PINK_TULIP"
+      },
+      "amount": "[Random](1-3)"
+    },
+    "10": {
+      "Material": {
+        "Item": "OXEYE_DAISY"
+      },
+      "amount": "[Random](1-3)"
+    },
+    "11": {
+      "Material": {
+        "Item": "CORN_FLOWER"
+      },
+      "amount": "[Random](1-3)"
+    },
+    "12": {
+      "Material": {
+        "Item": "LILLY_OF_THE_VALLEY"
+      },
+      "amount": "[Random](1-3)"
+    },
+    "13": {
+      "Material": {
+        "Item": "WITHER_ROSE"
+      },
+      "amount": "[Random](1-3)"
+    },
+    "sunflowers": {
+      "14": {
+        "Material": {
+          "Item": "SUNGLOWER"
+        },
+        "amount": "[Random](1-3)"
+      },
+      "15": {
+        "Material": {
+          "Item": "LILACS"
+        },
+        "amount": "[Random](1-3)"
+      },
+      "16": {
+        "Material": {
+          "Item": "ROSE_BUSH"
+        },
+        "amount": "[Random](1-3)"
+      },
+      "17": {
+        "Material": {
+          "Item": "PEONY"
+        },
+        "amount": "[Random](1-3)"
+      }
+    }
+  }
+}

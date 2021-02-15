@@ -1,0 +1,14 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&bPotion of the Ultimate Traveler",
+         "Material":{
+            "Item":"POTION",
+            "NBT":"{CustomPotionEffects:[{Id:1,Amplifier:1,Duration:1200},{Id:28,Amplifier:0,Duration:1200},{Id:8,Amplifier:1,Duration:1200}],CustomPotionColor:65535}"
+         },
+         "Hologram":[
+            "&bPotion of the Ultimate Traveler"
+         ]
+      }
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "DropItems": {
+       "1": {
+           "Name": "&dShield of Life",
+           "Material": {
+               "Item": "SHIELD",
+               "NBT":"{BlockEntityTag:{Base:2,Patterns:[{Pattern:mr,Color:6},{Pattern:tt,Color:2}]},AttributeModifiers:[{Name:health,AttributeName:generic.maxHealth,Amount:8,Operation:0,Slot:offhand,UUIDLeast:39849859,UUIDMost:49859823},{Name:attackspeed,AttributeName:generic.attackSpeed,Amount:0.25,Operation:2,Slot:offhand,UUIDLeast:5865359,UUIDMost:1508823}],HideFlags:32}"
+           }
+       }
+   }
+}

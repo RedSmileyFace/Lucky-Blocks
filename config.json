@@ -1,0 +1,30 @@
+{
+    "Prefix": "&eLucky Block&6> &7",
+    "Version": "1.0",
+    "ServerID": "00000000000000000000",
+    "AdminID": "00000000000000000000",
+    "Debug": true,
+    "Auto Update": false,
+    "Hologram Delay": 4.0,
+    "Lucky Blocks": [
+        "Spiral-Lucky-Block",
+        "Delta-Lucky-Block"
+    ],
+    "Messages":{
+        "Reload": "&aReloaded Lucky Blocks!",
+        "Debug Menu Alert": "&b/debugmenu &3- &rOpen your Debug Menu",
+        "Resource Pack": "&7Sending &eWorld Specific Resources&7...",
+        "No Updates": "No updates found!",
+        "Updated": "Successfully installed [Version]!"
+    },
+    "Debug Menu":{
+        "Drop Info": "WRITABLE BOOK",
+        "Item Drop": "PAPER",
+        "Player Command": "OBSERVER",
+        "Console Command": "OBSERVER",
+        "Send Message": "KNOWLEDGE BOOK",
+        "Broadcast Message": "KNOWLEDGE BOOK",
+        "Structure": "BLACK GLAZED TERRACOTTA",
+        "Hologram": "NAMETAG"
+    }
+}

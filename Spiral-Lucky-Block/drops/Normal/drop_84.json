@@ -1,0 +1,17 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&rLucky Crossbow",
+         "Material":{
+            "Item":"CROSSBOW",
+            "NBT":"{Enchantments:[{id:quick_charge,lvl:[Random](1-3)},{id:piercing,lvl:[Random](1-3)}]}"
+         }
+      },
+      "2":{
+         "Material":{
+            "Item":"ARROW"
+         },
+         "amount":"[Random](2-8)"
+      }
+   }
+}

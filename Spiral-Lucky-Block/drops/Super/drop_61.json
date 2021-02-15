@@ -1,0 +1,34 @@
+{
+   "DropItems":{
+      "1":{
+         "Material":{
+            "Item":"COAL_ORE"
+         },
+         "Amount":"[Random](1-4)"
+      },
+      "2":{
+         "Material":{
+            "Item":"LAPIS_ORE"
+         },
+         "Amount":"[Random](1-4)"
+      },
+      "3":{
+         "Material":{
+            "Item":"REDSTONE_ORE"
+         },
+         "Amount":"[Random](1-4)"
+      },
+      "4":{
+         "Material":{
+            "Item":"NETHER_QUARTZ_ORE"
+         },
+         "Amount":"[Random](0-3)"
+      },
+      "5":{
+         "Material":{
+            "Item":"EMERALD_ORE"
+         },
+         "Amount":"[Random](0-3)"
+      }
+   }
+}

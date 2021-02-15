@@ -1,0 +1,11 @@
+{
+  "RunCommand": [
+    "execute positioned [BlockLocation] run summon minecraft:falling_block ~ ~1 ~ {BlockState:{Name:\"minecraft:redstone_block\"},Time:1}",
+    "execute positioned [BlockLocation] run summon minecraft:falling_block ~ ~2 ~ {BlockState:{Name:\"minecraft:tnt\"},Time:1}",
+    "execute positioned [BlockLocation] run summon minecraft:falling_block ~ ~5 ~ {BlockState:{Name:\"minecraft:tnt\"},Time:1}",
+    "execute positioned [BlockLocation] run summon minecraft:falling_block ~ ~8 ~ {BlockState:{Name:\"minecraft:tnt\"},Time:1}",
+    "execute positioned [BlockLocation] run summon minecraft:falling_block ~ ~11 ~ {BlockState:{Name:\"minecraft:tnt\"},Time:1}",
+    "execute positioned [BlockLocation] run summon minecraft:falling_block ~ ~14 ~ {BlockState:{Name:\"minecraft:tnt\"},Time:1}",
+    "execute positioned [BlockLocation] run summon minecraft:falling_block ~ ~17 ~ {BlockState:{Name:\"minecraft:tnt\"},Time:1}"
+  ]
+}

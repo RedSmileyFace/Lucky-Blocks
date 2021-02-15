@@ -1,0 +1,10 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&8Scythe of Death",
+         "Material":{
+            "Item":"GOLDEN_SWORD"
+         }
+      }
+   }
+}

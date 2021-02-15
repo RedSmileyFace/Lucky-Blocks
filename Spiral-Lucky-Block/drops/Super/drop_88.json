@@ -1,0 +1,18 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&cF&eo&ar&bt&9i&df&cy&ei&an&bg &9S&dp&ci&er&aa&bl &9L&du&cc&ek&ay &bH&9e&dl&cm&ee&at",
+         "Lore":[
+            "&r",
+            "&7Found by [Player]"
+         ],
+         "Material":{
+            "Item":"DIAMOND_HELMET",
+            "NBT":"{Unbreakable:true,AttributeModifiers:[{Name:\"armor\",AttributeName:\"generic.armor\",Amount:5,Operation:0,Slot:\"head\",UUIDLeast:3980730,UUIDMost:6214382},{Name:\"armor toughness\",AttributeName:\"generic.armorToughness\",Amount:3,Operation:0,Slot:\"head\",UUIDLeast:7905534,UUIDMost:3495058},{Name:\"max health\",AttributeName:\"generic.maxHealth\",Amount:8,Operation:0,Slot:\"head\",UUIDLeast:9049384,UUIDMost:3784465}],Enchantments:[{id:protection,lvl:[Random](1-5)},{id:fire_protection,lvl:[Random](1-5)},{id:blast_protection,lvl:[Random](1-5)},{id:respiration,lvl:[Random](1-3)}]}"
+         },
+         "ShowHologram":[
+            "&cF&eo&ar&bt&9i&df&cy&ei&an&bg &9S&dp&ci&er&aa&bl &9L&du&cc&ek&ay &bH&9e&dl&cm&ee&at"
+         ]
+      }
+   }
+}

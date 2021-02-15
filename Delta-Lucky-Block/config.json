@@ -1,0 +1,56 @@
+{
+    "Lucky Block":"Delta Lucky Block",
+    "Prefix":"DLB",
+    "Version":1.0,
+    "Author":{
+       "Name":"Red =)",
+       "Icon":"https://media.discordapp.net/attachments/798431509093548032/803380162578087966/stuff.png"
+    },
+    "Description":"Epic spiral drops to fill your game with epic loot!",
+    "Website":"https://redsmileyface.com/",
+    "Resource Pack":"https://www.dropbox.com/s/ivvrlc1nhuy0p63/luckyblocks.zip?dl=1",
+    "Debug":false,
+    "Hologram Delay":5.0,
+    "Blocks":{
+       "Unlucky Block":{
+          "Item":{
+             "Material":"BLACK_TERRACOTTA",
+             "Name":"&9Delta Lucky Block"
+          }
+       },
+       "Normal Block":{
+          "Item":{
+             "Material":"LIGHT_GRAY_TERRACOTTA",
+             "Name":"&9Delta Lucky Block"
+          }
+       },
+       "Super Block":{
+          "Item":{
+             "Material":"GRAY_TERRACOTTA",
+             "Name":"&9Delta Lucky Block"
+          }
+       }
+    },
+    "Discord Integration":{
+       "Bot Token":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+       "Bot ID":"Spiral Lucky Block",
+       "Channel ID":"00000000000000000000",
+       "Embed Color":"Yellow"
+    },
+    "Log":{
+       "Discord":{
+          "Status":false,
+          "Channel ID":"00000000000000000000",
+          "Embed Color":"Yellow"
+       },
+       "File":{
+          "Status":false,
+          "File":"[LUCKY BLOCK].log",
+          "Timestamp":true
+       }
+    }
+ }
+
+
+
+ 

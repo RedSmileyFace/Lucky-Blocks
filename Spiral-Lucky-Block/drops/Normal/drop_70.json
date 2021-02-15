@@ -1,0 +1,12 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"Slowness Arrow",
+         "Material":{
+            "Item":"tipped_arrow",
+            "NBT":"{Potion:long_slowness}"
+         },
+         "amount":"[Random](2-10)"
+      }
+   }
+}

@@ -1,0 +1,17 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&9Make it Count",
+         "lore":[
+            "&bObsidian-b-gone"
+         ],
+         "Material":{
+            "Item":"GOLDEN_PICKAXE",
+            "NBT":"{Enchantments:[{id:efficiency,lvl:100}],Damage:31,RepairCost:1000}"
+         }
+      }
+   },
+   "ShowHologram":[
+      "&9Make it Count"
+   ]
+}

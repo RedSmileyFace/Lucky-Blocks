@@ -1,0 +1,10 @@
+{
+  "DropItems": {
+    "1": {
+      "Material": {
+        "Item": "GOLDEN_APPLE"
+      },
+      "amount": "[Random](1-3)"
+    }
+  }
+}

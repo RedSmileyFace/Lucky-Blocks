@@ -1,0 +1,6 @@
+{  
+    "RunCommand": [
+            "playsound minecraft:entity.tnt.primed block @a[distance=..16]",
+            "summon tnt [BlockLocation] {Fuse:60}"
+        ]
+}

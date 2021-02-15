@@ -1,0 +1,10 @@
+{
+   "DropItems":{
+      "1":{
+         "Material":{
+            "Item":"EMD_PORTAL_FRAME"
+         },
+         "Amount":"[Random](1-4)"
+      }
+   }
+}

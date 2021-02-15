@@ -1,0 +1,17 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&9Make it Count",
+         "Lore":[
+            "&7Hit em' out of the world!"
+         ],
+         "Material":{
+            "Item":"WOODEN_HOE",
+            "NBT":"{Damage:58,Enchantments:[{id:knockback,lvl:5}],RepairCost:1000}"
+         }
+      },
+      "ShowHologram":[
+         "&9Make it Count"
+      ]
+   }
+}

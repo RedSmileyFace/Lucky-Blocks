@@ -1,0 +1,14 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&8Death &8Article",
+         "lore":[
+            "&7use me to craft special gear"
+         ],
+         "Material":{
+            "Item":"GREEN_DYE"
+         },
+         "Amount":"[Random](2-8)"
+      }
+   }
+}

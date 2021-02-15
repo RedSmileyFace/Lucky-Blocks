@@ -1,0 +1,20 @@
+{
+   "RunCommand":[
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}",
+      "summon arrow [BlockLocation] {Motion:[[RandomList](-,)0.0[Random](0-99),1.0,[RandomList](-,)0.0[Random](0-99)],pickup:1,damage:10.0}"
+   ]
+}

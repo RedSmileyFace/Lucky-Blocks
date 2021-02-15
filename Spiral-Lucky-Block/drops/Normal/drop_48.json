@@ -1,0 +1,10 @@
+{
+   "DropItems":{
+      "1":{
+         "Material":{
+            "Item":"DIRT"
+         },
+         "Amount":"[Random](4-16)"
+      }
+   }
+}

@@ -1,0 +1,14 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&ePotion of the Ultimate Survivalist",
+         "Material":{
+            "Item":"POTION",
+            "NBT":"{CustomPotionEffects:[{Id:12,Amplifier:0,Duration:1200},{Id:13,Amplifier:0,Duration:1200},{Id:16,Amplifier:0,Duration:1200}],CustomPotionColor:16746839}"
+         },
+         "Hologram":[
+            "&ePotion of the Ultimate Survivalist"
+         ]
+      }
+   }
+}

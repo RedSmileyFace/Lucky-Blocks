@@ -1,0 +1,12 @@
+{
+   "DropItems":{
+      "1":{
+         "Lore":[
+            "&7 Fly Thru the sky's"
+         ],
+         "Material":{
+            "Item":"ELYTRA"
+         }
+      }
+   }
+}

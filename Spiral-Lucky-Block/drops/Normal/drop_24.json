@@ -1,0 +1,7 @@
+{
+   "RunCommand":[
+      "summon pig [BlockLocation] {Fire:200}",
+      "[RandomList](,summon pig [BlockLocation] {Fire:200})",
+      "[RandomList](,summon pig [BlockLocation] {Fire:200})"
+   ]
+}

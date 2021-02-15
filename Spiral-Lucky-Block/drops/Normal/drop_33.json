@@ -1,0 +1,15 @@
+{
+   "DropItems":{
+      "1":{
+         "Material":{
+            "Item":"BOW"
+         },
+         "2":{
+            "Material":{
+               "Item":"ARROW"
+            },
+            "amount":"[random](1-16)"
+         }
+      }
+   }
+}

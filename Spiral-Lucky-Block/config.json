@@ -1,0 +1,49 @@
+{
+    "Lucky Block":"Spiral Lucky Block",
+    "Prefix":"SLB",
+    "Version":1.0,
+    "Author":{
+       "Name":"Red =)",
+       "Icon":"https://media.discordapp.net/attachments/798431509093548032/803380162578087966/stuff.png"
+    },
+    "Description":"Epic spiral drops to fill your game with epic loot!",
+    "Website":"https://redsmileyface.com/",
+    "Resource Pack":"https://www.dropbox.com/s/ivvrlc1nhuy0p63/luckyblocks.zip?dl=1",
+    "Debug":false,
+    "Hologram": {
+      "Delay":5.0,
+      "Height": 4.0
+    },
+    "Blocks":{
+       "Normal Block":{
+          "Item":{
+             "Material":"LIGHT_GRAY_TERRACOTTA",
+             "Name":"&4S&cp&6i&er&2a&al &9L&bu&5c&dk&4y &cB&6l&eo&2c&ak&9"
+          }
+       },
+       "Super Block":{
+          "Item":{
+             "Material":"GRAY_TERRACOTTA",
+             "Name":"&4S&cp&6i&er&2a&al &9L&bu&5c&dk&4y &cB&6l&eo&2c&ak&9"
+          }
+       }
+    },
+    "Discord Integration":{
+       "Bot Token":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+       "Bot ID":"Spiral Lucky Block",
+       "Channel ID":"00000000000000000000",
+       "Embed Color":"Yellow"
+    },
+    "Log":{
+       "Discord":{
+          "Status":false,
+          "Channel ID":"00000000000000000000",
+          "Embed Color":"Yellow"
+       },
+       "File":{
+          "Status":true,
+          "File":"[LUCKY BLOCK].log",
+          "Timestamp":true
+       }
+    }
+ }

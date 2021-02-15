@@ -1,0 +1,24 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&cT&er&ai&bp&9l&de &cS&ep&ai&br&9a&dl &cL&eu&ac&bk&9y &dB&co&ew",
+         "Lore":[
+            "&r",
+            "&7Found by [Player]"
+         ],
+         "Material":{
+            "Item":"BOW",
+            "NBT":"{Unbreakable:true,Enchantments:[{id:power,lvl:[Random](3-6)},{id:punch,lvl:[Random](1-3)},{id:flame,lvl:1}]}"
+         },
+         "ShowHologram":[
+            "&cT&er&ai&bp&9l&de &cS&ep&ai&br&9a&dl &cL&eu&ac&bk&9y &dB&co&ew"
+         ]
+      },
+      "2":{
+         "Material":{
+            "Item":"ARROW"
+         },
+         "Amount":"[Random](4-32)"
+      }
+   }
+}

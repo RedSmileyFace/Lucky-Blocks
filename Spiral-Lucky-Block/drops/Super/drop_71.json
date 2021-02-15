@@ -1,0 +1,13 @@
+{
+  "DropItems": {
+    "1": {
+      "Lore": [
+        "&4&lThrow me at your friends >:)"
+      ],
+      "Material": {
+        "Item": "LINGERING_POTION",
+        "NBT": "{Potion:[RandomList](harming,strong_slowness)}"
+      }
+    }
+  }
+}

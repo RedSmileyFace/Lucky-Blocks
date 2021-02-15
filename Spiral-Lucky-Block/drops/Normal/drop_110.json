@@ -1,0 +1,8 @@
+{
+  "DropItems": {
+    "1": {
+      "Item": "APPLE"
+    },
+    "amount": "[Random](1-4)"
+  }
+}

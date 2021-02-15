@@ -1,0 +1,18 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&cU&el&at&bi&9m&da&ct&ee &aS&bp&9i&dr&ca&el &aD&be&9m&do&cl&ei&as&bh&9e&dr",
+         "Lore":[
+            "&r",
+            "&7Found by [Player]"
+         ],
+         "Material":{
+            "Item":"DIAMOND_PICKAXE",
+            "NBT":"{Enchantments:[{id:efficiency,lvl:10}]}"
+         },
+         "ShowHologram":[
+            "&cU&el&at&bi&9m&da&ct&ee &aS&bp&9i&dr&ca&el &aD&be&9m&do&cl&ei&as&bh&9e&dr"
+         ]
+      }
+   }
+}

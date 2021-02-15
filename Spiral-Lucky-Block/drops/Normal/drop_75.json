@@ -1,0 +1,17 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&fPotion of the Ultimate Blur",
+         "Lore":[
+            "&7ZOOOOM!"
+         ],
+         "Material":{
+            "Item":"POTION",
+            "NBT":"{CustomPotionEffects:[{Id:1,Duration:1200},{Id:10,Duration:1200},{Id:14,Duration:1200}],CustomPotionColor:13679346}"
+         },
+         "Hologram":[
+            "&fPotion of the Ultimate Blur"
+         ]
+      }
+   }
+}

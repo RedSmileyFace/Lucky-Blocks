@@ -1,0 +1,11 @@
+{
+   "DropItems":{
+      "1":{
+         "Name":"&8Scythe of Death",
+         "Material":{
+            "Item":"GOLDEN_SWORD",
+            "NBT":"{Enchantments:[{id:sweeping,lvl:[Random](2-3)},{id:sharpness,lvl:[Random](6-8)},{id:fire_aspect,lvl:[Random](2-3)}]}"
+         }
+      }
+   }
+}
